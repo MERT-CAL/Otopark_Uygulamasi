@@ -1,0 +1,40 @@
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\bin\Debug\OTOPARK.exe.config
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\bin\Debug\OTOPARK.exe
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\bin\Debug\OTOPARK.pdb
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.ResolveComReference.cache
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.Form1.resources
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.Properties.Resources.resources
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.GenerateResource.cache
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.CoreCompileInputs.cache
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.exe
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.pdb
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.araccikisi.resources
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.aracgirisi.resources
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.gunsonu.resources
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\bin\Debug\itextsharp.dll
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\bin\Debug\itextsharp.xml
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.CopyComplete
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\bin\Debug\itextsharp.pdfa.dll
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.AssemblyReference.cache
+C:\Users\calme\Masaüstü\python projelerim\OTOPARK\OTOPARK\obj\Debug\Interop.IEXTagLib.dll
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\bin\Debug\OTOPARK.exe.config
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\bin\Debug\OTOPARK.exe
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\bin\Debug\OTOPARK.pdb
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\bin\Debug\itextsharp.dll
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\bin\Debug\itextsharp.pdfa.dll
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\bin\Debug\itextsharp.xml
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.AssemblyReference.cache
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\Interop.IEXTagLib.dll
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.ResolveComReference.cache
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.araccikisi.resources
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.aracgirisi.resources
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.Form1.resources
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.gunsonu.resources
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.Properties.Resources.resources
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.GenerateResource.cache
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.CoreCompileInputs.cache
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.csproj.CopyComplete
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.exe
+C:\Users\calme\Masaüstü\otopark_uygulaması\OTOPARK\OTOPARK\obj\Debug\OTOPARK.pdb
